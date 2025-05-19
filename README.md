@@ -75,10 +75,10 @@ This project is an Arduino-based version of the classic "Bop-It!" game, built us
 ---
 
 ## Media
-
-- `media/IMG_0142.jpg`: Photo of the assembled hardware.
-- `media/IMG_2185.jpg`: Photo showing the game in action.
-- `media/IMG_2184.mov`: Video demonstration of gameplay.
+<p align="left">
+  <img src="media/IMG_0142.jpg" width="200" /> : Photo of the assembled hardware.
+  <img src="media/IMG_2185.jpg" width="200" /> : Photo showing the game in action.
+</p>
 
 ---
 
